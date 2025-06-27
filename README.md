@@ -106,12 +106,9 @@ SMILE_THRESH = 3           # Smile sensitivity
 
 ---
 
-##  Author
+##  Contributors
 
-Developed by [Your Name or Team Name]
-
----
-
-##  Disclaimer
-
-This project is for educational and research purposes. Please ensure proper user safety and ergonomics while using hands-free systems.
+- Jayant Mitawa
+- Ashish Rawal
+- Sujal Agarwal
+- Shaurya Vaish
